@@ -32,6 +32,9 @@ Displays:
 - Tasks completed
 - Total RAM accesses
 
+#### Output Screenshots
+A folder containing all the output screenshots
+
 ***
 
 ### Round Robin
@@ -147,4 +150,10 @@ Compile:
 Run:
 
 ```./simulator.exe```
+
+***
+
+### References
+
+Round Robin Algorithm: https://www.geeksforgeeks.org/operating-systems/program-for-round-robin-scheduling-for-the-same-arrival-time/
 
