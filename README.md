@@ -155,5 +155,5 @@ Run:
 
 ### References
 
-Round Robin Algorithm: https://www.geeksforgeeks.org/operating-systems/program-for-round-robin-scheduling-for-the-same-arrival-time/
+Round Robin Algorithm: https://www.geeksforgeeks.org/operating-systems/round-robin-scheduling-in-operating-system/
 
